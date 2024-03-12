@@ -1,0 +1,110 @@
+@media(max-width:750px) {
+    .as {
+        width: 40%;
+    }
+    .imgs {
+        width: 35%;
+    }
+    .h1 {
+        font-size: 30px;
+        margin: 0;
+    }
+    .div2 {
+        width: 30%;
+        padding: 30px 10px;
+    }
+    .img {
+        bottom: -42px;
+    }
+}
+@media(max-width:660px) {
+    .as {
+        width: 70%;
+    }
+    .imgs {
+        width: 60%;
+        margin: auto;
+    }
+    .div {
+        width: 100%;
+        text-align: center;
+    }
+    .h1 {
+        font-size: 30px;
+        margin: 0;
+    }
+    .div2 {
+        width: 45%;
+        padding: 30px 10px;
+    }
+}
+@media(max-width:551px) {
+    .h1 {
+        font-size: 30px;
+        margin: 0;
+    }
+    .div2 {
+        width: 45%;
+        padding: 30px 10px;
+    }
+    .box {
+        padding: 20px 10px;
+    }
+}
+@media(max-width:443px) {
+    .h1 {
+        font-size: 30px;
+        margin: 0;
+    }
+    .div2 {
+        width: 70%;
+        margin: auto;
+        padding: 30px 10px;
+    }
+    .rg {
+        row-gap: 40px;
+    }
+    .box {
+        padding: 20px 10px;
+    }
+}
+@media(max-width:380px) {
+    .h1 {
+        font-size: 25px;
+        margin: 0;
+    }
+    .as {
+        width: 100%;
+    }
+    .a {
+        padding: 0;
+        padding: 7px;
+        border-radius: 10px;
+        align-items: center;
+    }
+    .imgs {
+        width: 80%;
+    }
+    .df {
+        justify-content: center;
+    }
+    .div2 {
+        width: 80%;
+        margin: auto;
+        padding: 30px 10px;
+    }
+    .rg {
+        row-gap: 40px;
+    }
+    .box {
+        padding: 20px 10px;
+    }
+    .img {
+        bottom: -35px;
+    }
+}
+@media(max-width:380px) {
+    .div2 {
+        width: 100%;
+    }
+}
